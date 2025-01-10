@@ -25,3 +25,22 @@ body {
     text-wrap: balance;
   }
 }
+
+.image {
+  border-bottom-left-radius: 43%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  /* border-color: rgb(151, 151, 151); */
+  border-top: #171717; 
+  box-shadow: 0 4px 6px rgba(168, 168, 168, 0.5);
+} 
+
+.box-image {
+border-bottom-left-radius: 15px;
+border-radius: 50%;
+border-left:50%;
+border-color:rgb(75, 75, 75);
+}
+
+
