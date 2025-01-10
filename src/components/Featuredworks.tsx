@@ -6,7 +6,7 @@ import featureimage3 from "../../public/featureimage3.png";
 
 export default function Featuredworks() {
     return (
-        <div className="h-[1034px] w-[1440px] bg-[#f4f4f5] flex justify-center ">
+        <div className="h-[1134px] w-[1440px] bg-[#f4f4f5] flex justify-center ">
             <div className="relative top-[120px] h-[934.2px]  w-[919px]">
                 <p className="text-[22px] text-black">Featured works</p>
                 <div className="h-[180px] w-[929px]  relative top-[40px] flex gap-[20px]">
